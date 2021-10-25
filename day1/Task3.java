@@ -5,6 +5,6 @@
 public class Main {
 
     public static void main(String[] args) {
-        String variable_1 = "A", variable_2 = "T", variable_3 = "U";
+        char variable_1 = 'A', variable_2 = 'T', variable_3 = 'U';
     }
 }
